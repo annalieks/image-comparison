@@ -3,7 +3,7 @@
 The app is used to find the similar images using the `dHash` algorithm. To speed up the image processing, many operations are implemented concurrently.
 
 ## Processing scheme
-![](images/processing-scheme.jpg)
+![](assets/processing-scheme.jpg)
 
 
 ## Supported endpoints
